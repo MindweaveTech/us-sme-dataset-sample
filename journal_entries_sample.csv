@@ -1,0 +1,201 @@
+id,company_id,entry_number,entry_date,description,source_module,source_id,is_adjusting,is_reversal,posted
+2cbad04a-b116-404b-ba2f-d1cea92bd17c,29946c71-6cdc-4a03-8749-2a16578bb7e1,1,2024-01-01,Opening balance — owner's equity contribution,company,,False,False,True
+439eaa15-395c-4272-a4cd-78dc98619a39,29946c71-6cdc-4a03-8749-2a16578bb7e1,2,2024-01-02,Sales invoice issued,sales,ac2adc6b-a67b-4682-b3ab-b54a7dc440ef,False,False,True
+2c64dbff-9135-40d4-8553-0eae7ebb7fb8,29946c71-6cdc-4a03-8749-2a16578bb7e1,3,2024-01-02,Sales invoice issued,sales,04f7e417-a554-479b-831b-c80b34a9aae8,False,False,True
+8cae75f7-1b62-43fe-b0da-68b7de762f2d,29946c71-6cdc-4a03-8749-2a16578bb7e1,4,2024-01-03,Sales invoice issued,sales,57f2746f-36a3-43b7-88ed-214258e9bd68,False,False,True
+dcb5a270-0a4a-4fcb-b808-289a91a50d50,29946c71-6cdc-4a03-8749-2a16578bb7e1,5,2024-01-04,Payroll processed,payroll,a3fb1a73-ccef-457c-b5b4-77737f71a0af,False,False,True
+dd0eed86-63fd-47b5-b1fb-ccb2fc0e707b,29946c71-6cdc-4a03-8749-2a16578bb7e1,6,2024-01-05,Sales invoice issued,sales,c76c2493-314c-4929-b55a-55f16f90c63d,False,False,True
+defa4eef-9236-4afc-aa4a-13b64eed59b1,29946c71-6cdc-4a03-8749-2a16578bb7e1,7,2024-01-05,Sales invoice issued,sales,800fafb2-cdc3-4ef0-8c58-9f6d500eca97,False,False,True
+e340b90a-ebe2-46df-981b-c6506e761917,29946c71-6cdc-4a03-8749-2a16578bb7e1,8,2024-01-08,Sales invoice issued,sales,b6e32877-c41d-4ab2-9ddc-5b04e33895ff,False,False,True
+d6042a7f-1b69-468a-a3e0-a36cc567ce11,29946c71-6cdc-4a03-8749-2a16578bb7e1,9,2024-01-08,Sales invoice issued,sales,38c1ccf7-2e14-4851-a4b2-b0626acb5028,False,False,True
+0544c2f5-b611-4a93-98c3-d991acb2204f,29946c71-6cdc-4a03-8749-2a16578bb7e1,10,2024-01-09,Sales invoice issued,sales,811052f7-78ab-48f0-a362-6cdd9b06ce1d,False,False,True
+b098441e-fe32-4589-9430-1e026f2effab,29946c71-6cdc-4a03-8749-2a16578bb7e1,11,2024-01-09,Sales invoice issued,sales,e7c92bf3-0262-419b-8800-907d691357d4,False,False,True
+a8ed225c-e28a-4ec8-9496-f31d732df107,29946c71-6cdc-4a03-8749-2a16578bb7e1,12,2024-01-10,Sales invoice issued,sales,4b2480c6-bdcf-4e97-8f40-939ca3249832,False,False,True
+22ffa3b5-ee51-4fbc-96df-81f242752051,29946c71-6cdc-4a03-8749-2a16578bb7e1,13,2024-01-10,Sales invoice issued,sales,20237c0d-c11a-4ceb-bf62-b5fff04938fa,False,False,True
+9df5bc3a-1add-42de-b739-d50a6641f206,29946c71-6cdc-4a03-8749-2a16578bb7e1,14,2024-01-11,Sales invoice issued,sales,cb8bcc99-72f7-42da-b800-e4edaa8238d8,False,False,True
+567bce3a-2870-454b-bfbf-c2a97b5b7e1f,29946c71-6cdc-4a03-8749-2a16578bb7e1,15,2024-01-11,Sales invoice issued,sales,150d3ffe-2783-47de-8c4a-0cce30ce98c1,False,False,True
+ebf18304-09f4-4243-adae-37d3fe36a935,29946c71-6cdc-4a03-8749-2a16578bb7e1,16,2024-01-11,Sales invoice issued,sales,f38677ec-8a2a-4cd2-abac-8b8ce1b30bac,False,False,True
+f5bfe6cc-db24-4edf-9b3f-31a0e6b13efb,29946c71-6cdc-4a03-8749-2a16578bb7e1,17,2024-01-12,Sales invoice issued,sales,9b8a6a40-5ed0-4418-bffb-9cb1eb1c52b1,False,False,True
+2a59aec7-ef9f-4c21-a316-055cdd23d7ba,29946c71-6cdc-4a03-8749-2a16578bb7e1,18,2024-01-12,Sales invoice issued,sales,ac679518-7473-41cb-887d-b0437af98b26,False,False,True
+24d2c98a-bed9-4590-8ba5-e1908b9ea26d,29946c71-6cdc-4a03-8749-2a16578bb7e1,19,2024-01-12,Customer payment received,sales,afcff426-5e97-4754-9adc-e2b62951d73c,False,False,True
+3c49fda6-ef41-4deb-adb5-fe3430930994,29946c71-6cdc-4a03-8749-2a16578bb7e1,20,2024-01-15,Sales invoice issued,sales,ac25e7b5-c7f7-493a-9261-9dc3e1ae82d2,False,False,True
+86bee8ac-cca9-4f3c-9024-1ce32de0b544,29946c71-6cdc-4a03-8749-2a16578bb7e1,21,2024-01-15,Customer payment received,sales,2f75eab2-1962-47a0-a7cd-abe97bec91ec,False,False,True
+f9229384-cd92-4a95-95af-9ad7d2f4b5ff,29946c71-6cdc-4a03-8749-2a16578bb7e1,22,2024-01-15,Supplier invoice received,purchasing,2828e475-df4c-458e-adf8-daf8456ecaf0,False,False,True
+0002071e-4c89-4463-9f22-4bf4e983bceb,29946c71-6cdc-4a03-8749-2a16578bb7e1,23,2024-01-16,Sales invoice issued,sales,927f69df-29ba-4494-b670-f9331ebf7c10,False,False,True
+b9d32e3a-1440-4aa6-b68a-a2663c3af11c,29946c71-6cdc-4a03-8749-2a16578bb7e1,24,2024-01-16,Sales invoice issued,sales,515fb02d-2c42-4d65-a327-8bc9626423a7,False,False,True
+d4d337be-9791-4cc1-a2b7-c7fc2635c4ec,29946c71-6cdc-4a03-8749-2a16578bb7e1,25,2024-01-17,Sales invoice issued,sales,9dd03242-8a5a-4527-84e6-d10872747715,False,False,True
+5445f7ce-f649-42ff-a767-36c66155df6a,29946c71-6cdc-4a03-8749-2a16578bb7e1,26,2024-01-17,Sales invoice issued,sales,dce3ecb2-3f34-4153-ab67-2401b30b845d,False,False,True
+07560fc7-4c67-4415-bc06-fd8e38929053,29946c71-6cdc-4a03-8749-2a16578bb7e1,27,2024-01-18,Payroll processed,payroll,fb917307-55d5-448c-a77d-cfe0552f247e,False,False,True
+a2cb889d-0e9c-451d-946c-07309722dc5c,29946c71-6cdc-4a03-8749-2a16578bb7e1,28,2024-01-18,Sales invoice issued,sales,c73e5e13-17f5-49a1-93d5-bc0632e713f2,False,False,True
+47109b74-bac8-4f29-a1a8-efb4755e63d2,29946c71-6cdc-4a03-8749-2a16578bb7e1,29,2024-01-18,Customer payment received,sales,0a3a508a-dbbe-4824-ae80-4e1f0ca6b01b,False,False,True
+4d605a73-828b-4988-868d-0c15438ebbb7,29946c71-6cdc-4a03-8749-2a16578bb7e1,30,2024-01-18,Supplier payment made,purchasing,36555dc2-4577-4acd-9ef0-e0e723b6334e,False,False,True
+1a80e22b-e806-4b67-a865-2f815954c170,29946c71-6cdc-4a03-8749-2a16578bb7e1,31,2024-01-22,Sales invoice issued,sales,cf70ffa1-6d03-4a6d-b4e6-e8d07d17da1e,False,False,True
+9be7e5e2-e96d-4ea9-bca2-a6833a39b90f,29946c71-6cdc-4a03-8749-2a16578bb7e1,32,2024-01-22,Customer payment received,sales,46f5c474-7456-47e2-be2e-03ec10830dad,False,False,True
+5beced5f-66a3-41c0-8446-cd354bf1d35a,29946c71-6cdc-4a03-8749-2a16578bb7e1,33,2024-01-22,Customer payment received,sales,89f4d03d-a05a-401a-8d3a-81d60122644f,False,False,True
+8651a1ab-543c-4831-a4bd-f4d50bd08d79,29946c71-6cdc-4a03-8749-2a16578bb7e1,34,2024-01-22,Supplier invoice received,purchasing,544ce6a4-eb71-4c46-abd6-60ae64df56dd,False,False,True
+ce3e9629-dcd2-457c-8b8b-98dbc368bb46,29946c71-6cdc-4a03-8749-2a16578bb7e1,35,2024-01-23,Sales invoice issued,sales,65b607d0-004a-4fd0-a0ff-d8cd816e8b16,False,False,True
+649bd11e-2fa2-41dc-976a-f0d1929f8b8b,29946c71-6cdc-4a03-8749-2a16578bb7e1,36,2024-01-23,Sales invoice issued,sales,4153da43-0450-4623-88d6-0b5e41318c8b,False,False,True
+d3fc4b0c-3de9-4585-8c9d-74b2c93329ce,29946c71-6cdc-4a03-8749-2a16578bb7e1,37,2024-01-23,Sales invoice issued,sales,da8142f8-6c9c-44f0-b899-17e337b7a302,False,False,True
+3c166354-a032-4e34-a992-4ca7756b1734,29946c71-6cdc-4a03-8749-2a16578bb7e1,38,2024-01-23,Customer payment received,sales,42d915fe-c174-43c6-b9ee-437fb235a68c,False,False,True
+ced12654-3ad7-45f1-8213-26e1e36acaea,29946c71-6cdc-4a03-8749-2a16578bb7e1,39,2024-01-24,Customer payment received,sales,56e50d68-da7b-4f8a-a0c1-9b0fbdaa521e,False,False,True
+14ac3a0e-ebf2-4a7e-ad87-05d7bea6bbdf,29946c71-6cdc-4a03-8749-2a16578bb7e1,40,2024-01-24,Customer payment received,sales,1c80797d-3481-42d8-a9bd-77b8b6a5d5bf,False,False,True
+7d58d527-1f77-4bbf-914d-0404a5105ded,29946c71-6cdc-4a03-8749-2a16578bb7e1,41,2024-01-24,Supplier invoice received,purchasing,566f2f17-9b3b-4847-8173-ca12712c1af9,False,False,True
+e02b2ebd-b0cf-4f72-95fb-5607fa78a9ea,29946c71-6cdc-4a03-8749-2a16578bb7e1,42,2024-01-24,Supplier payment made,purchasing,9b18dc21-fa81-4ecb-afdf-51978e7a8991,False,False,True
+43048a97-694c-4705-acfb-b0ee8c08f83a,29946c71-6cdc-4a03-8749-2a16578bb7e1,43,2024-01-25,Sales invoice issued,sales,6c21be76-c521-45a5-bb5f-652e1a526e06,False,False,True
+fda28bee-7fc4-4ef3-bc54-b517ed17e1b1,29946c71-6cdc-4a03-8749-2a16578bb7e1,44,2024-01-25,Customer payment received,sales,838bb9dc-8359-443e-a1ae-11f68a3835eb,False,False,True
+a1884069-1192-4af7-8cb8-da64fcee7f94,29946c71-6cdc-4a03-8749-2a16578bb7e1,45,2024-01-25,Customer payment received,sales,0573492f-14d5-4d56-b426-f61979f38405,False,False,True
+7cee8ee3-0069-49ba-a470-725f4d57b6d9,29946c71-6cdc-4a03-8749-2a16578bb7e1,46,2024-01-26,Sales invoice issued,sales,75fb48e0-62a0-4c71-b35a-742698b229f3,False,False,True
+f5ff7688-767e-4b90-bb68-89ab373ae212,29946c71-6cdc-4a03-8749-2a16578bb7e1,47,2024-01-26,Customer payment received,sales,d384bf0f-b922-40cb-b90d-f70c5900f724,False,False,True
+e009f3b8-2891-4401-8743-40434342631a,29946c71-6cdc-4a03-8749-2a16578bb7e1,48,2024-01-29,Sales invoice issued,sales,3e8668bc-6248-47ca-b589-92ca7e32cf36,False,False,True
+c68cc848-aae1-4ec6-96fe-61d12fce219f,29946c71-6cdc-4a03-8749-2a16578bb7e1,49,2024-01-29,Customer payment received,sales,935a6fe1-ad84-4558-9085-02218413d409,False,False,True
+e7fc5e32-278b-40b7-9514-13753715d1d7,29946c71-6cdc-4a03-8749-2a16578bb7e1,50,2024-01-30,Sales invoice issued,sales,01206f22-945f-4695-b9b4-e5b51672bc30,False,False,True
+d63520e0-b226-4bca-b85f-b33dd81ddf77,29946c71-6cdc-4a03-8749-2a16578bb7e1,51,2024-01-30,Sales invoice issued,sales,93f406e5-82f7-48af-ba3c-6e234e45cd3a,False,False,True
+63b55d4a-7691-475e-8fff-6cbb304ee2dc,29946c71-6cdc-4a03-8749-2a16578bb7e1,52,2024-01-30,Customer payment received,sales,5199a896-65b3-40bf-9d45-e66abb74dff1,False,False,True
+2eef730b-67b0-48f8-b8bd-448bed1e1c87,29946c71-6cdc-4a03-8749-2a16578bb7e1,53,2024-01-31,Sales invoice issued,sales,b8883871-f41a-4e92-acfc-21f2483f0e74,False,False,True
+346db428-975f-4b95-9054-f032a8014e4f,29946c71-6cdc-4a03-8749-2a16578bb7e1,54,2024-01-31,Sales invoice issued,sales,2c27cf03-8a65-4401-b82f-cd54537ab53c,False,False,True
+939d5371-9f0a-43eb-91a5-d2acf7137dae,29946c71-6cdc-4a03-8749-2a16578bb7e1,55,2024-01-31,Customer payment received,sales,62d5d645-08a0-4a14-bdb9-f6fbe7f4e450,False,False,True
+268bbe0a-58fe-4007-bee5-ea10a72c6ba3,29946c71-6cdc-4a03-8749-2a16578bb7e1,56,2024-01-31,Customer payment received,sales,43c152e7-565b-4854-8400-3bf9eafbaf49,False,False,True
+292d6ec7-1ee3-47d3-b4e3-d6abc8d93aee,29946c71-6cdc-4a03-8749-2a16578bb7e1,57,2024-01-31,Depreciation — POS System,assets,0fdc1402-f08b-45d4-922c-b5d98232b126,False,False,True
+ac89151f-2d21-4c1d-ae75-3bd0160a6ff9,29946c71-6cdc-4a03-8749-2a16578bb7e1,58,2024-01-31,Depreciation — Laptop x2,assets,f54c021c-a594-405a-9ac0-0dc2f918d8ba,False,False,True
+10aa0c00-f331-4607-98fc-2a4a0f1e58ac,29946c71-6cdc-4a03-8749-2a16578bb7e1,59,2024-01-31,Depreciation — Printer/Scanner,assets,4ac020d1-a3ca-4fdc-b819-289f4817d689,False,False,True
+24a766b6-09ba-42ab-ad49-e598a94412f3,29946c71-6cdc-4a03-8749-2a16578bb7e1,60,2024-01-31,Depreciation — Shop Shelving,assets,e6acb5bf-6bb2-499a-91ba-49c2a6ecb10a,False,False,True
+f6e525eb-418c-470e-808b-017d52ba7be5,29946c71-6cdc-4a03-8749-2a16578bb7e1,61,2024-01-31,Depreciation — Display Stands,assets,9d29d197-d130-43d9-bbb7-a0be9022f3c2,False,False,True
+3de3c62f-35db-4919-b205-0f90f3b0da5c,29946c71-6cdc-4a03-8749-2a16578bb7e1,62,2024-01-31,Depreciation — Counter & Checkout,assets,b822a024-f4ff-4b11-aabf-3bbcbc9d52bf,False,False,True
+c2cbd324-f979-4a56-afbf-3e4371253100,29946c71-6cdc-4a03-8749-2a16578bb7e1,63,2024-01-31,Depreciation — Signage,assets,9e970e06-284a-4656-b66e-32881714d52e,False,False,True
+15e6c910-d563-4a93-ba1c-653933551cde,29946c71-6cdc-4a03-8749-2a16578bb7e1,64,2024-01-31,Depreciation — Delivery Van,assets,88ce923c-f7c3-4524-8152-0cf00ae2751d,False,False,True
+14aa32a0-450f-43c6-85b0-25b2ac45c4a2,29946c71-6cdc-4a03-8749-2a16578bb7e1,65,2024-01-31,Depreciation — Security System,assets,3c8cae0c-9172-4a79-908a-7017e95fe4c4,False,False,True
+0e290f62-bb3f-4b2b-9373-774503c4f2b5,29946c71-6cdc-4a03-8749-2a16578bb7e1,66,2024-02-01,Payroll processed,payroll,155e1f8a-8eb0-4a1c-afac-b6ce44b0a9b1,False,False,True
+6d43a8c8-0a83-4ce3-a28e-86a2b313920c,29946c71-6cdc-4a03-8749-2a16578bb7e1,67,2024-02-02,Sales invoice issued,sales,ae0dbdc7-5bfc-4f80-8b0a-b485f9372f30,False,False,True
+331a9316-a028-46dd-9d8f-4a6e374bd3a1,29946c71-6cdc-4a03-8749-2a16578bb7e1,68,2024-02-02,Sales invoice issued,sales,779190c1-a328-4481-bcf4-d6d276752134,False,False,True
+0574c2df-5393-4acf-8c57-0266b1b03a92,29946c71-6cdc-4a03-8749-2a16578bb7e1,69,2024-02-02,Customer payment received,sales,adda3cc1-6b96-4189-95cd-72d217e8d374,False,False,True
+89dabb9e-6435-4958-9012-91f9b36461f8,29946c71-6cdc-4a03-8749-2a16578bb7e1,70,2024-02-05,Sales invoice issued,sales,d963da41-36b1-4072-bd9d-cebecdaf4990,False,False,True
+0951df5a-f72d-48d2-a099-c805e33a1750,29946c71-6cdc-4a03-8749-2a16578bb7e1,71,2024-02-05,Sales invoice issued,sales,9dc1f76f-7d33-4041-a980-c39bdec1fe49,False,False,True
+4c34056e-ae73-45eb-a870-99634f2491e0,29946c71-6cdc-4a03-8749-2a16578bb7e1,72,2024-02-05,Sales invoice issued,sales,c539d28a-1495-4a9a-bd59-b07877af1d46,False,False,True
+a028c970-a580-467e-ab46-cf8291db59c8,29946c71-6cdc-4a03-8749-2a16578bb7e1,73,2024-02-05,Sales invoice issued,sales,6a5c5418-ec73-4887-b37f-82cc3ec4ed14,False,False,True
+af9b4bce-16e9-4c06-a1e8-ceafbbf33dfa,29946c71-6cdc-4a03-8749-2a16578bb7e1,74,2024-02-05,Sales invoice issued,sales,4c0b595c-8d09-4681-9e66-11ff8b0c0bcc,False,False,True
+73d6ba0e-f328-45a2-9c97-143a633bd99e,29946c71-6cdc-4a03-8749-2a16578bb7e1,75,2024-02-05,Supplier invoice received,purchasing,422dd697-922a-48ed-9ed3-5c76a718bcd9,False,False,True
+74f019e1-07c2-46fd-932d-f1f11d711f94,29946c71-6cdc-4a03-8749-2a16578bb7e1,76,2024-02-05,Supplier invoice received,purchasing,b1799b85-2a6f-4a85-9359-905af6427b74,False,False,True
+db787f13-35e6-4789-b5c6-f28b3e1cae49,29946c71-6cdc-4a03-8749-2a16578bb7e1,77,2024-02-06,Sales invoice issued,sales,99ffbaaa-2ccb-4eac-85ed-a84319298199,False,False,True
+2ca000d0-4bcc-43c0-98ab-1520c335e961,29946c71-6cdc-4a03-8749-2a16578bb7e1,78,2024-02-06,Sales invoice issued,sales,088335d9-d5be-44ee-820c-2de1becb3a33,False,False,True
+65ccb8cb-195d-4521-9357-3f0efa788768,29946c71-6cdc-4a03-8749-2a16578bb7e1,79,2024-02-06,Sales invoice issued,sales,18d2d6f9-9314-47a3-97c9-86eb7ab2baef,False,False,True
+a836eb45-0366-4144-8e5e-529325d764f4,29946c71-6cdc-4a03-8749-2a16578bb7e1,80,2024-02-06,Customer payment received,sales,57e605bb-871a-4946-8c44-c9bde654760b,False,False,True
+2a48988c-ba89-40be-9f2e-d170c6aec331,29946c71-6cdc-4a03-8749-2a16578bb7e1,81,2024-02-06,Supplier payment made,purchasing,8d1fecd4-6df6-4e9f-a660-4a4babf0b123,False,False,True
+dfb476ad-004f-4139-8509-df8b9f42c7e0,29946c71-6cdc-4a03-8749-2a16578bb7e1,82,2024-02-07,Sales invoice issued,sales,53d437f9-dbb9-4563-9048-fd7a50aaa6da,False,False,True
+48b4031a-4b28-448a-bec3-dc37589ba1d1,29946c71-6cdc-4a03-8749-2a16578bb7e1,83,2024-02-07,Sales invoice issued,sales,a043fa86-91e6-4bc3-9de2-1b3c201a717c,False,False,True
+56d57710-0139-4fe1-871c-a468c8244aed,29946c71-6cdc-4a03-8749-2a16578bb7e1,84,2024-02-08,Sales invoice issued,sales,a596b4f4-21ac-4af9-8ded-76540fcede69,False,False,True
+15075445-e1b8-4482-8fee-f5fcb8953210,29946c71-6cdc-4a03-8749-2a16578bb7e1,85,2024-02-08,Sales invoice issued,sales,9443b3f1-0564-4a4f-8a0d-1755116c0c06,False,False,True
+0e220bae-bfdf-48dd-b9e8-843fa46dd85a,29946c71-6cdc-4a03-8749-2a16578bb7e1,86,2024-02-08,Sales invoice issued,sales,2a9c6911-eab6-4ef7-adb1-7dd39ca53f7f,False,False,True
+3679e1b9-181b-457f-9684-f875851e69d1,29946c71-6cdc-4a03-8749-2a16578bb7e1,87,2024-02-08,Sales invoice issued,sales,f6914c03-d2c4-4447-b27e-a6e9c70684a1,False,False,True
+7053af38-77cf-49d3-b2ce-31d6f1634436,29946c71-6cdc-4a03-8749-2a16578bb7e1,88,2024-02-09,Sales invoice issued,sales,210a70b6-d386-4cde-86fa-c2cc792a8fbc,False,False,True
+b3a4d128-0352-48d0-a6d3-81813afd6dca,29946c71-6cdc-4a03-8749-2a16578bb7e1,89,2024-02-09,Customer payment received,sales,c9da6638-feef-4bc3-a95b-2e3bc922954a,False,False,True
+e770e644-a822-411e-9ebd-583c7976213d,29946c71-6cdc-4a03-8749-2a16578bb7e1,90,2024-02-09,Customer payment received,sales,812bf866-e170-494d-b8dc-b84fb56151fb,False,False,True
+fdb5f0e7-1d5e-4b2c-ac33-6c7d40c16961,29946c71-6cdc-4a03-8749-2a16578bb7e1,91,2024-02-12,Sales invoice issued,sales,b2adf67c-2191-42bc-87f5-c932d2cbf19e,False,False,True
+29a73f5b-bb7f-4757-afaf-e27ca351f5b1,29946c71-6cdc-4a03-8749-2a16578bb7e1,92,2024-02-12,Customer payment received,sales,7e219fb6-0057-4607-8309-f181e50c674c,False,False,True
+da794741-4dc6-4089-8251-5986e24eb666,29946c71-6cdc-4a03-8749-2a16578bb7e1,93,2024-02-12,Customer payment received,sales,f530bcb5-6801-4db7-be58-859cdc5d9bc1,False,False,True
+df22ed7c-8549-452b-adda-1e7abba4801e,29946c71-6cdc-4a03-8749-2a16578bb7e1,94,2024-02-12,Customer payment received,sales,c5c32f9c-fe70-40b1-9a0b-c16d768a011b,False,False,True
+2f982347-7e5f-4b20-a69a-9fa914d5e363,29946c71-6cdc-4a03-8749-2a16578bb7e1,95,2024-02-12,Supplier invoice received,purchasing,ae268155-40fc-45a7-bb86-a19347df1396,False,False,True
+bd7f1f04-db99-42a7-b9d7-fbe527f5b82a,29946c71-6cdc-4a03-8749-2a16578bb7e1,96,2024-02-12,Supplier invoice received,purchasing,7fed0444-6dd4-4eff-9db6-b71b59f89dc0,False,False,True
+d5ca9ea5-a06a-4aef-9c4a-31449d34129f,29946c71-6cdc-4a03-8749-2a16578bb7e1,97,2024-02-12,Supplier payment made,purchasing,8788b1a2-1793-4da5-b873-3a830ab1541d,False,False,True
+fb0d9c6a-8c2c-45a6-a586-3cbc874e5000,29946c71-6cdc-4a03-8749-2a16578bb7e1,98,2024-02-12,Supplier payment made,purchasing,b2cc5841-6139-4e6b-9841-0b03c2c51962,False,False,True
+b329cffd-466f-47c6-873d-1a7cc0ac6c78,29946c71-6cdc-4a03-8749-2a16578bb7e1,99,2024-02-13,Sales invoice issued,sales,3e8ed2ae-53c7-46bd-952c-7b280b656b72,False,False,True
+88838dbf-a92e-4213-a03c-ee95c244b937,29946c71-6cdc-4a03-8749-2a16578bb7e1,100,2024-02-13,Customer payment received,sales,4c3dd31b-c195-4369-abd2-c1e11cb2863a,False,False,True
+73b1c1e7-c64c-47e2-abcc-1738c9ba1e8d,29946c71-6cdc-4a03-8749-2a16578bb7e1,101,2024-02-14,Sales invoice issued,sales,b0bd2d87-bc64-49c7-b5eb-c029ffa6067f,False,False,True
+f41945cc-ca4e-4cc3-9309-0f0271f5b4c2,29946c71-6cdc-4a03-8749-2a16578bb7e1,102,2024-02-14,Sales invoice issued,sales,1bee82c0-d86e-4a4d-a3c7-da45b7a5c762,False,False,True
+12d13704-3042-4010-8a56-c377daf13caf,29946c71-6cdc-4a03-8749-2a16578bb7e1,103,2024-02-14,Customer payment received,sales,d1155e64-f5b2-4480-b05c-fdcc5bccc115,False,False,True
+ab0d7b95-5c11-4c0b-b98b-c2f2f07e5d81,29946c71-6cdc-4a03-8749-2a16578bb7e1,104,2024-02-14,Customer payment received,sales,0317eb53-9d28-422f-831e-455ddbda42d0,False,False,True
+1fce8e06-af0b-46b0-aae2-a63e5f0b9756,29946c71-6cdc-4a03-8749-2a16578bb7e1,105,2024-02-14,Supplier payment made,purchasing,30cce6c1-754b-4933-98db-561a33b0811c,False,False,True
+b555459c-c91b-4a5c-8032-65874ba1cbbe,29946c71-6cdc-4a03-8749-2a16578bb7e1,106,2024-02-15,Payroll processed,payroll,aeb1758e-907b-4998-a753-3999ce54eebb,False,False,True
+01a39445-bb6d-4065-b228-a865d1bcd25f,29946c71-6cdc-4a03-8749-2a16578bb7e1,107,2024-02-15,Customer payment received,sales,8d8d43ae-0658-4178-8fa8-eeb4d35580af,False,False,True
+3aa74b41-75a1-44ba-9ea3-aeebeafad20c,29946c71-6cdc-4a03-8749-2a16578bb7e1,108,2024-02-15,Customer payment received,sales,60c15ae7-8776-40e2-b613-4605ec8161a7,False,False,True
+1b57988b-a575-4730-8e90-a6b583013722,29946c71-6cdc-4a03-8749-2a16578bb7e1,109,2024-02-15,Customer payment received,sales,2cd2f953-0878-4203-82a0-b82e96491f51,False,False,True
+118e91e4-ded3-4456-b39c-66889bb25289,29946c71-6cdc-4a03-8749-2a16578bb7e1,110,2024-02-15,Customer payment received,sales,1ec59c3c-872c-4531-811f-06d2c92fe3ab,False,False,True
+ba8e8d03-b523-4aef-8454-12a1517849af,29946c71-6cdc-4a03-8749-2a16578bb7e1,111,2024-02-15,Customer payment received,sales,797489cd-5a2e-457c-bd00-8063ee62bc44,False,False,True
+91d6b830-a274-4900-b922-78cc2a8cd844,29946c71-6cdc-4a03-8749-2a16578bb7e1,112,2024-02-16,Sales invoice issued,sales,ef4746b7-092e-43e5-8829-94e677c2e82a,False,False,True
+85107674-5852-4d23-9993-499bcd0702a5,29946c71-6cdc-4a03-8749-2a16578bb7e1,113,2024-02-16,Customer payment received,sales,4bf5931f-9c34-4b6a-ad3c-e65623011df8,False,False,True
+4c6048b6-b6ef-45aa-9d8b-ccee3f78a577,29946c71-6cdc-4a03-8749-2a16578bb7e1,114,2024-02-16,Supplier invoice received,purchasing,d7c6e6bf-a312-4350-8ddf-75926de57da7,False,False,True
+2661f788-0bae-4adf-97fb-d72ac576263e,29946c71-6cdc-4a03-8749-2a16578bb7e1,115,2024-02-19,Customer payment received,sales,a5e76278-e1f9-40e8-bc1e-22de4b10ebfc,False,False,True
+b8d74af1-fedf-4fb4-88a2-b954c4ff718d,29946c71-6cdc-4a03-8749-2a16578bb7e1,116,2024-02-19,Supplier invoice received,purchasing,afde7e22-c7d2-49e9-93e6-51fe99c12a6b,False,False,True
+d2be9aa7-daea-42bf-b214-0bef26f9ca85,29946c71-6cdc-4a03-8749-2a16578bb7e1,117,2024-02-19,Supplier invoice received,purchasing,7078f060-7b39-4059-b5e4-a849ec9fafae,False,False,True
+70f370c9-414a-4aa2-b2c7-bbf317bf7af1,29946c71-6cdc-4a03-8749-2a16578bb7e1,118,2024-02-19,Supplier invoice received,purchasing,bf6c093a-cc1b-4f6e-ac09-4ceb4e1ac0cf,False,False,True
+0fe114b3-c8f3-45a3-a79f-374da3c67367,29946c71-6cdc-4a03-8749-2a16578bb7e1,119,2024-02-20,Customer payment received,sales,8f12dacf-57ca-4169-9b7c-c7b014488f49,False,False,True
+acabad62-2aa3-4e62-8bd6-b57631b42997,29946c71-6cdc-4a03-8749-2a16578bb7e1,120,2024-02-20,Supplier payment made,purchasing,21a719b2-5698-4987-8094-76c5008a9195,False,False,True
+eb825b70-75b5-4ce2-8849-f88decbcde73,29946c71-6cdc-4a03-8749-2a16578bb7e1,121,2024-02-21,Sales invoice issued,sales,4e9aa616-e681-47aa-9c79-f4efae654d7f,False,False,True
+cba79e24-c8f9-440e-a2df-efb2838fe0ad,29946c71-6cdc-4a03-8749-2a16578bb7e1,122,2024-02-21,Sales invoice issued,sales,c383cbfc-f953-46ac-84cb-6f323ec7a7e1,False,False,True
+d9edb358-e5c1-4179-a0de-6f5d4ed4b00d,29946c71-6cdc-4a03-8749-2a16578bb7e1,123,2024-02-21,Sales invoice issued,sales,df1d90f4-1fa2-4aa3-8d28-d6dfd546adf2,False,False,True
+df1a2343-a5b0-492a-87dc-ce5f1bd558c3,29946c71-6cdc-4a03-8749-2a16578bb7e1,124,2024-02-21,Sales invoice issued,sales,06e6fee0-b24f-4137-9eb7-f4e43ede21c5,False,False,True
+9535871a-e8e5-4967-91b8-6e9dd89622b3,29946c71-6cdc-4a03-8749-2a16578bb7e1,125,2024-02-22,Sales invoice issued,sales,7dbe7ebf-ab38-449d-86a5-0ab6df218b92,False,False,True
+32ed85c3-914e-48d4-bd9d-4979c4e0dac7,29946c71-6cdc-4a03-8749-2a16578bb7e1,126,2024-02-22,Sales invoice issued,sales,b285fc60-ad4a-45fe-950d-9b3d4731d80b,False,False,True
+72d06c2a-2db4-4890-b491-bfa665be899a,29946c71-6cdc-4a03-8749-2a16578bb7e1,127,2024-02-22,Sales invoice issued,sales,1186ed6d-7626-4b22-8094-1af9a5e8da8b,False,False,True
+b4d0a53a-83e5-41d5-aa10-2d361f925c57,29946c71-6cdc-4a03-8749-2a16578bb7e1,128,2024-02-23,Sales invoice issued,sales,0c45d6f8-fc30-4198-a8c5-2117d938417e,False,False,True
+dab0b4e2-d848-443e-9518-aaa9ad0adc27,29946c71-6cdc-4a03-8749-2a16578bb7e1,129,2024-02-23,Sales invoice issued,sales,428d3892-08d4-46b5-a466-581fd0b6d7b7,False,False,True
+b5c0b841-9e2d-4137-9e8f-49bb9711cabd,29946c71-6cdc-4a03-8749-2a16578bb7e1,130,2024-02-23,Sales invoice issued,sales,cb84f15c-86a5-4f54-9b1a-03e7d466767a,False,False,True
+8db9ca45-c56d-4dd2-afed-9893224e76fe,29946c71-6cdc-4a03-8749-2a16578bb7e1,131,2024-02-23,Customer payment received,sales,8f958bbe-c6d1-406d-8fde-363e8b96d397,False,False,True
+9f94c89b-1cd4-41c1-9a5c-fc43cfb5217a,29946c71-6cdc-4a03-8749-2a16578bb7e1,132,2024-02-23,Supplier invoice received,purchasing,d2cfe305-fe6f-41f2-b00d-0c103b7a1671,False,False,True
+e7d03af0-7967-4639-aaec-8eef354608a0,29946c71-6cdc-4a03-8749-2a16578bb7e1,133,2024-02-26,Customer payment received,sales,29f33421-7137-4876-b90d-4bb63522cede,False,False,True
+562dc1e9-4486-4414-bde8-4c384aba4e99,29946c71-6cdc-4a03-8749-2a16578bb7e1,134,2024-02-26,Customer payment received,sales,bbd542ca-9884-4c42-aa48-8f4bc1b5a069,False,False,True
+866c87ca-2b41-4cf5-a015-33bf845cda7a,29946c71-6cdc-4a03-8749-2a16578bb7e1,135,2024-02-26,Customer payment received,sales,f360ffa4-5e22-435a-a7a3-22b7bb74e463,False,False,True
+89e2bdf8-3698-47e5-adf8-15efd32b7440,29946c71-6cdc-4a03-8749-2a16578bb7e1,136,2024-02-26,Supplier invoice received,purchasing,d48658df-f88e-467e-af64-f9582dc3c70a,False,False,True
+63390117-27d0-4d3b-959e-9cecdabbd446,29946c71-6cdc-4a03-8749-2a16578bb7e1,137,2024-02-26,Supplier invoice received,purchasing,ef549408-41d9-4246-83fb-120decddb421,False,False,True
+b1b484fd-3c8a-4b6a-8dc6-537e679e825b,29946c71-6cdc-4a03-8749-2a16578bb7e1,138,2024-02-26,Supplier payment made,purchasing,6c23f54e-4b63-4aa9-aa1d-37c563896123,False,False,True
+e7b5a989-0116-4711-8845-758027e74bfa,29946c71-6cdc-4a03-8749-2a16578bb7e1,139,2024-02-26,Supplier payment made,purchasing,bd55b646-d398-411f-ae14-6a95928bc2fb,False,False,True
+930040af-771a-4d3a-b371-7716568a02d0,29946c71-6cdc-4a03-8749-2a16578bb7e1,140,2024-02-26,Supplier payment made,purchasing,a0043d83-0b05-4eb9-887d-9ffe8232071c,False,False,True
+71bee2f5-fb24-4d9b-8760-66de800b31fb,29946c71-6cdc-4a03-8749-2a16578bb7e1,141,2024-02-27,Sales invoice issued,sales,1f340aef-a46c-41a1-a2e7-c126e570a601,False,False,True
+21b5d495-6a3f-46e8-9260-559b4a75876c,29946c71-6cdc-4a03-8749-2a16578bb7e1,142,2024-02-27,Sales invoice issued,sales,f434786c-bd85-4524-bec0-a75d872e4aef,False,False,True
+43507a41-ec44-45b4-8030-9d2536c9d6d0,29946c71-6cdc-4a03-8749-2a16578bb7e1,143,2024-02-27,Customer payment received,sales,dc00b2ee-0ffb-4183-b2ae-e7e449fa31f9,False,False,True
+e39392b0-e76e-4187-a1b2-254b5b8d0a13,29946c71-6cdc-4a03-8749-2a16578bb7e1,144,2024-02-27,Supplier invoice received,purchasing,1ea5ffde-8ba3-408b-827d-ac4e71a63564,False,False,True
+3cf69013-dab9-4283-8622-ddfcef9483b7,29946c71-6cdc-4a03-8749-2a16578bb7e1,145,2024-02-27,Supplier invoice received,purchasing,cf908833-6207-42a5-a715-154400e930fb,False,False,True
+aa7c8e92-67ca-4c17-a56b-c663a4de9fd0,29946c71-6cdc-4a03-8749-2a16578bb7e1,146,2024-02-28,Sales invoice issued,sales,156131fc-a87e-407f-8829-bb0f55829a65,False,False,True
+91b03e1e-f63e-4932-a30b-fe7cec135e45,29946c71-6cdc-4a03-8749-2a16578bb7e1,147,2024-02-28,Customer payment received,sales,f4224d59-412d-4e1a-b1ac-2e87c3c0cd73,False,False,True
+47d70363-8c2d-4b22-a368-a35c6a42666d,29946c71-6cdc-4a03-8749-2a16578bb7e1,148,2024-02-28,Customer payment received,sales,ce4e342f-33cc-40ea-b679-c7f8bc13f409,False,False,True
+0dc15db1-69f2-4381-a58b-3db72422e346,29946c71-6cdc-4a03-8749-2a16578bb7e1,149,2024-02-28,Customer payment received,sales,1e7e28a0-c113-4e29-8efa-81ca1dfa38ba,False,False,True
+715c8d28-5952-4e97-8ff4-cb5222a9b84f,29946c71-6cdc-4a03-8749-2a16578bb7e1,150,2024-02-29,Payroll processed,payroll,28176134-28c3-4941-9e2c-d9fab98417c5,False,False,True
+7554959c-4662-495e-8d52-788a3318df8b,29946c71-6cdc-4a03-8749-2a16578bb7e1,151,2024-02-29,Sales invoice issued,sales,472b87d1-7be5-4995-9d7f-7e181422fd66,False,False,True
+b218d7be-3719-4506-83fa-c0d9b2790654,29946c71-6cdc-4a03-8749-2a16578bb7e1,152,2024-02-29,Sales invoice issued,sales,d8df9715-1720-40e8-8159-51862ba96d01,False,False,True
+86fba715-449a-4900-9e72-aa142049267b,29946c71-6cdc-4a03-8749-2a16578bb7e1,153,2024-02-29,Sales invoice issued,sales,78512681-25f6-47ee-9a60-939e507b5926,False,False,True
+9a431563-e34e-45f6-99ad-c387a1b8ed05,29946c71-6cdc-4a03-8749-2a16578bb7e1,154,2024-02-29,Supplier invoice received,purchasing,5d98c77d-798d-4176-bb39-71ee2b8b4434,False,False,True
+ab3e893f-8009-4b77-b0d1-bc9019cb0431,29946c71-6cdc-4a03-8749-2a16578bb7e1,155,2024-02-29,Supplier payment made,purchasing,0fa38991-421a-4c52-aceb-7e302550058e,False,False,True
+2ac0c6ea-dcf7-47ac-9791-964e72413001,29946c71-6cdc-4a03-8749-2a16578bb7e1,156,2024-02-29,Supplier payment made,purchasing,c4655b7e-cd80-450c-97b8-8010422ff849,False,False,True
+1e7a6d90-0c47-48bc-a780-058d8280639a,29946c71-6cdc-4a03-8749-2a16578bb7e1,157,2024-02-29,Depreciation — POS System,assets,0fdc1402-f08b-45d4-922c-b5d98232b126,False,False,True
+52ed4cd5-4d7c-442f-ad92-0b5f027805e1,29946c71-6cdc-4a03-8749-2a16578bb7e1,158,2024-02-29,Depreciation — Laptop x2,assets,f54c021c-a594-405a-9ac0-0dc2f918d8ba,False,False,True
+b90665f7-f010-4929-8b83-19de7668428e,29946c71-6cdc-4a03-8749-2a16578bb7e1,159,2024-02-29,Depreciation — Printer/Scanner,assets,4ac020d1-a3ca-4fdc-b819-289f4817d689,False,False,True
+b70b0736-0cf9-4e43-aaf1-0158d835d792,29946c71-6cdc-4a03-8749-2a16578bb7e1,160,2024-02-29,Depreciation — Shop Shelving,assets,e6acb5bf-6bb2-499a-91ba-49c2a6ecb10a,False,False,True
+ca4ce25f-597d-4e33-95be-e6cd7c0d9e96,29946c71-6cdc-4a03-8749-2a16578bb7e1,161,2024-02-29,Depreciation — Display Stands,assets,9d29d197-d130-43d9-bbb7-a0be9022f3c2,False,False,True
+b3d25a22-d3eb-4274-b04a-2b82f91b5306,29946c71-6cdc-4a03-8749-2a16578bb7e1,162,2024-02-29,Depreciation — Counter & Checkout,assets,b822a024-f4ff-4b11-aabf-3bbcbc9d52bf,False,False,True
+7810253e-1f92-44d9-a5aa-4dc474dcd288,29946c71-6cdc-4a03-8749-2a16578bb7e1,163,2024-02-29,Depreciation — Signage,assets,9e970e06-284a-4656-b66e-32881714d52e,False,False,True
+bf8f7b6a-8448-4491-a061-5f68c0b06631,29946c71-6cdc-4a03-8749-2a16578bb7e1,164,2024-02-29,Depreciation — Delivery Van,assets,88ce923c-f7c3-4524-8152-0cf00ae2751d,False,False,True
+13f35f4d-f902-4ca4-8df6-da1e8c72ed4f,29946c71-6cdc-4a03-8749-2a16578bb7e1,165,2024-02-29,Depreciation — Security System,assets,3c8cae0c-9172-4a79-908a-7017e95fe4c4,False,False,True
+075e1179-fb5e-443a-85b4-45c097319a9b,29946c71-6cdc-4a03-8749-2a16578bb7e1,166,2024-03-01,Sales invoice issued,sales,e8259831-6480-464e-8ae0-d0bb0e114610,False,False,True
+754c29ad-c241-4cc9-934b-5e2a1e816e07,29946c71-6cdc-4a03-8749-2a16578bb7e1,167,2024-03-01,Sales invoice issued,sales,73af4d44-b0e9-4d65-8abe-6a85985eab93,False,False,True
+92cad591-0bca-498e-ba4c-4f9359463189,29946c71-6cdc-4a03-8749-2a16578bb7e1,168,2024-03-01,Sales invoice issued,sales,ea0cf415-030d-4995-b298-64faab582a68,False,False,True
+3f98696a-90ff-4bc5-a1ff-26bd19859dc1,29946c71-6cdc-4a03-8749-2a16578bb7e1,169,2024-03-01,Customer payment received,sales,15270874-88c1-4201-ab5d-c496a28b363d,False,False,True
+5ea066f6-ea1e-44f2-8f56-61b337befa1a,29946c71-6cdc-4a03-8749-2a16578bb7e1,170,2024-03-01,Customer payment received,sales,9678ab0b-2cc5-46a2-bf71-d318848f0849,False,False,True
+8ce8b003-3b3f-4753-b513-b105dddd9f22,29946c71-6cdc-4a03-8749-2a16578bb7e1,171,2024-03-04,Sales invoice issued,sales,7ccef4fd-8564-4c92-a0de-47fec807a182,False,False,True
+3786a7ed-eaa2-4a17-aecc-4e2b6efe593f,29946c71-6cdc-4a03-8749-2a16578bb7e1,172,2024-03-04,Sales invoice issued,sales,8b87a3c1-d796-4264-8581-5539a7abd0fa,False,False,True
+08a54ab9-2056-4e29-98e4-8e2786ff926d,29946c71-6cdc-4a03-8749-2a16578bb7e1,173,2024-03-04,Customer payment received,sales,6367dbd9-ca89-4525-b7af-b426a4366bcf,False,False,True
+a9af56c4-e6b9-4063-a790-a2319b745b94,29946c71-6cdc-4a03-8749-2a16578bb7e1,174,2024-03-05,Sales invoice issued,sales,27393382-0a14-428f-a480-bd35ea88f846,False,False,True
+f5c84835-f1f0-411b-b9df-ef96e51d0589,29946c71-6cdc-4a03-8749-2a16578bb7e1,175,2024-03-05,Sales invoice issued,sales,22fdd2a0-c156-4cc4-a1f6-026df9c6e3fd,False,False,True
+9c60ef6b-be01-4280-92d2-b05163e0d954,29946c71-6cdc-4a03-8749-2a16578bb7e1,176,2024-03-05,Customer payment received,sales,df65d288-f315-4bad-8da1-3767191eafb0,False,False,True
+1ac7f947-b400-4857-a4bd-1dc3e725b976,29946c71-6cdc-4a03-8749-2a16578bb7e1,177,2024-03-05,Customer payment received,sales,197d8f54-9019-4df0-917a-265ed3896f41,False,False,True
+b0980a86-d048-4af8-b32e-d9571e09f806,29946c71-6cdc-4a03-8749-2a16578bb7e1,178,2024-03-05,Customer payment received,sales,f374fd64-77fa-4dc4-9e9f-0ee50e5fcb00,False,False,True
+2c5ad8c0-89fa-4ba5-abc9-46a9da9c5e67,29946c71-6cdc-4a03-8749-2a16578bb7e1,179,2024-03-05,Customer payment received,sales,f5338d1b-0693-4b7b-93c3-c2b78c4a1215,False,False,True
+96e3650c-d570-4a62-8181-4c53ddc62de6,29946c71-6cdc-4a03-8749-2a16578bb7e1,180,2024-03-05,Supplier payment made,purchasing,670fd0ed-b2e7-4f01-8ca6-b5f8ed59dfb0,False,False,True
+e425663b-fc8a-45ed-8004-4380e68903ff,29946c71-6cdc-4a03-8749-2a16578bb7e1,181,2024-03-06,Sales invoice issued,sales,57b87caf-91ae-4cb1-99e6-e8dcb6bc9e54,False,False,True
+d96324a9-e695-480b-b589-5e4594f2e395,29946c71-6cdc-4a03-8749-2a16578bb7e1,182,2024-03-06,Customer payment received,sales,89cbf65f-1150-43b5-9f91-1a661f9c0e67,False,False,True
+009343b3-2e1f-4bef-814e-873a4dd62911,29946c71-6cdc-4a03-8749-2a16578bb7e1,183,2024-03-06,Customer payment received,sales,56b37e60-880b-400f-9c3e-b698575c9712,False,False,True
+bc254b3a-2ba2-47e6-b5db-c0b8975c9733,29946c71-6cdc-4a03-8749-2a16578bb7e1,184,2024-03-06,Supplier payment made,purchasing,bce26309-1fd2-47c2-939f-feb4e5f31767,False,False,True
+990525a7-a102-4c26-97de-4d11ff95ec27,29946c71-6cdc-4a03-8749-2a16578bb7e1,185,2024-03-07,Sales invoice issued,sales,34663104-c0c7-46c4-89be-98df8aa2d5d3,False,False,True
+c3e43f2c-0a15-41bb-8b69-2a2a2f353cbd,29946c71-6cdc-4a03-8749-2a16578bb7e1,186,2024-03-07,Customer payment received,sales,b72f3856-dbc1-4ba1-9606-4063b1ddc970,False,False,True
+dd67045e-554c-47c7-a3a9-3dd77c0b46c1,29946c71-6cdc-4a03-8749-2a16578bb7e1,187,2024-03-07,Supplier invoice received,purchasing,6049c9c8-bc43-4c97-a24b-6ce0de35b3cf,False,False,True
+af4542bd-9eff-48b0-8636-a02149050e1c,29946c71-6cdc-4a03-8749-2a16578bb7e1,188,2024-03-07,Supplier invoice received,purchasing,3fd7b92f-6755-4c4f-a7c9-bbf353d24798,False,False,True
+0f80bd5a-7681-4dc3-9001-81b6ad4edbe5,29946c71-6cdc-4a03-8749-2a16578bb7e1,189,2024-03-08,Customer payment received,sales,6a998dd6-acf5-4a85-8922-cb56add12ef6,False,False,True
+acfe718a-8db5-4ce3-a51d-58af2733dae3,29946c71-6cdc-4a03-8749-2a16578bb7e1,190,2024-03-08,Customer payment received,sales,7ed165c6-dd19-49d8-984b-a942900bf6e7,False,False,True
+dbb3a1eb-af66-4519-b179-36f9dde96acb,29946c71-6cdc-4a03-8749-2a16578bb7e1,191,2024-03-08,Supplier invoice received,purchasing,1b5e936d-3df5-4857-bdf1-d9970448a181,False,False,True
+3abeb57b-1310-41ed-bf7b-489085c0b042,29946c71-6cdc-4a03-8749-2a16578bb7e1,192,2024-03-11,Customer payment received,sales,26dd9943-fbde-4ed0-b21e-b47d0d784e83,False,False,True
+e40cb1d8-d011-43d1-a48f-e5692750b61e,29946c71-6cdc-4a03-8749-2a16578bb7e1,193,2024-03-11,Customer payment received,sales,35ae3696-9d30-4962-8103-24758c93bcbb,False,False,True
+89c82d84-4dd9-4b7d-bb21-d96033d18c0d,29946c71-6cdc-4a03-8749-2a16578bb7e1,194,2024-03-11,Supplier invoice received,purchasing,f3570acf-4420-4411-baf2-9ba79171c23e,False,False,True
+694fc012-8e8d-49e8-97da-b57f04049cba,29946c71-6cdc-4a03-8749-2a16578bb7e1,195,2024-03-11,Supplier invoice received,purchasing,52bfd897-d8f2-4917-9841-6126f0ec78a6,False,False,True
+b0b3e417-a996-4428-8862-f765d573e36e,29946c71-6cdc-4a03-8749-2a16578bb7e1,196,2024-03-11,Supplier payment made,purchasing,ebf0ac52-3634-400d-a35e-606cbd6ce724,False,False,True
+e241dc24-80a2-44a7-9a3e-ee76e8ac26d1,29946c71-6cdc-4a03-8749-2a16578bb7e1,197,2024-03-12,Sales invoice issued,sales,dce9b251-5666-4b8f-a22b-e75dad757337,False,False,True
+0ab5ed7e-7602-4a48-9a51-d9082f27c49e,29946c71-6cdc-4a03-8749-2a16578bb7e1,198,2024-03-12,Sales invoice issued,sales,f504f464-b21c-4511-acec-9d7e23a98adf,False,False,True
+faebcb71-d2c5-42b6-84e4-a9897d8c1d08,29946c71-6cdc-4a03-8749-2a16578bb7e1,199,2024-03-12,Customer payment received,sales,c5a1f153-e6fd-4218-a841-be94fdeeab03,False,False,True
+c0b4cf06-08de-404b-a180-1e8b6d5b2a63,29946c71-6cdc-4a03-8749-2a16578bb7e1,200,2024-03-12,Customer payment received,sales,ef717780-709c-45da-982c-6f0cbe494cab,False,False,True

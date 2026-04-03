@@ -1,0 +1,61 @@
+id,company_id,code,name,account_type,sub_type,description,is_system,is_active,tax_code
+539046d9-606b-4f99-8251-73c7ad07daa0,29946c71-6cdc-4a03-8749-2a16578bb7e1,1-1000,Bank Account - Operating,asset,current_asset,,True,True,Non-Taxable
+3d71dfe5-ed03-4802-adf8-5aec1a3b92a9,29946c71-6cdc-4a03-8749-2a16578bb7e1,1-1010,Bank Account - Savings,asset,current_asset,,True,True,Non-Taxable
+136f1560-9dae-4ed7-a979-d25ab8068d6c,29946c71-6cdc-4a03-8749-2a16578bb7e1,1-1100,Accounts Receivable,asset,current_asset,,True,True,Non-Taxable
+63bc8c8e-0ebe-478d-8b68-20d4487f6b75,29946c71-6cdc-4a03-8749-2a16578bb7e1,1-1150,Allowance for Doubtful Accounts,asset,current_asset,,False,True,Non-Taxable
+2da7cfef-1928-402b-944b-f16c1014f85d,29946c71-6cdc-4a03-8749-2a16578bb7e1,1-1200,Inventory,asset,current_asset,,False,True,Non-Taxable
+f8fc1214-3151-4cd6-8ae5-e766a2d8af1c,29946c71-6cdc-4a03-8749-2a16578bb7e1,1-1300,Prepaid Expenses,asset,current_asset,,False,True,Non-Taxable
+49ec12c3-ca38-4a97-bcc5-036d29b4c85e,29946c71-6cdc-4a03-8749-2a16578bb7e1,1-1400,Sales Tax Receivable,asset,current_asset,,True,True,Non-Taxable
+392d8229-ffc0-4435-bd03-b97d436a34b5,29946c71-6cdc-4a03-8749-2a16578bb7e1,1-2000,Office Equipment,asset,fixed_asset,,False,True,Taxable
+8205d2fd-d0b9-4637-be94-4b9c5339cef7,29946c71-6cdc-4a03-8749-2a16578bb7e1,1-2010,Less Accumulated Depreciation - Office Equipment,asset,fixed_asset,,False,True,Non-Taxable
+cff7fb4f-fa89-4cc0-a2f5-e09c89fa453e,29946c71-6cdc-4a03-8749-2a16578bb7e1,1-2100,Furniture & Fixtures,asset,fixed_asset,,False,True,Taxable
+038e98c2-95cf-44b9-9663-459bdc95d4ed,29946c71-6cdc-4a03-8749-2a16578bb7e1,1-2110,Less Accumulated Depreciation - Furniture & Fixtures,asset,fixed_asset,,False,True,Non-Taxable
+39fbced6-f6d3-4f8a-8d1a-b2f6814a2170,29946c71-6cdc-4a03-8749-2a16578bb7e1,1-2200,Vehicles,asset,fixed_asset,,False,True,Taxable
+34d58358-d5f3-46a1-895a-826ca03c9a95,29946c71-6cdc-4a03-8749-2a16578bb7e1,1-2210,Less Accumulated Depreciation - Vehicles,asset,fixed_asset,,False,True,Non-Taxable
+efd1b590-f8b7-4c1c-acd6-432977e9a26e,29946c71-6cdc-4a03-8749-2a16578bb7e1,2-1000,Accounts Payable,liability,current_liability,,True,True,Non-Taxable
+fb739ddc-8b06-4029-95f4-d447d25f9f8f,29946c71-6cdc-4a03-8749-2a16578bb7e1,2-1100,Sales Tax Payable,liability,current_liability,,True,True,Non-Taxable
+48f8060f-52b1-4d4e-9a9f-479ead0a3f11,29946c71-6cdc-4a03-8749-2a16578bb7e1,2-1200,Federal Income Tax Withholding Payable,liability,current_liability,,True,True,Non-Taxable
+931076c1-d84e-493d-92e4-ba9797fbf6b3,29946c71-6cdc-4a03-8749-2a16578bb7e1,2-1250,State Income Tax Withholding Payable,liability,current_liability,,False,True,Non-Taxable
+6d41a358-0249-4398-9ee2-b77372774bd9,29946c71-6cdc-4a03-8749-2a16578bb7e1,2-1300,FICA Payable (Social Security & Medicare),liability,current_liability,,True,True,Non-Taxable
+045d839c-b4f9-4ecd-bd96-6b3563c71ae1,29946c71-6cdc-4a03-8749-2a16578bb7e1,2-1350,FUTA Payable,liability,current_liability,,False,True,Non-Taxable
+ce3453ce-cf0d-4784-af11-55755408c2d5,29946c71-6cdc-4a03-8749-2a16578bb7e1,2-1400,Wages Payable,liability,current_liability,,False,True,Non-Taxable
+3b7df21a-16fd-4b3a-a0c9-c2144f7f34d9,29946c71-6cdc-4a03-8749-2a16578bb7e1,2-1500,Accrued Expenses,liability,current_liability,,False,True,Non-Taxable
+0c089037-cf13-40b5-b402-2dcedae1accf,29946c71-6cdc-4a03-8749-2a16578bb7e1,2-1600,Unearned Revenue,liability,current_liability,,False,True,Non-Taxable
+15aa399a-95a8-4f73-b4be-e7b0ffa9ba36,29946c71-6cdc-4a03-8749-2a16578bb7e1,2-1700,Accrued PTO Liability,liability,current_liability,,False,True,Non-Taxable
+bf1e0d82-f1e4-48cc-8f87-e418c38fb3a1,29946c71-6cdc-4a03-8749-2a16578bb7e1,2-1800,401(k) Payable,liability,current_liability,,False,True,Non-Taxable
+e89c341d-4a84-4ce6-b70e-c2b92ece21eb,29946c71-6cdc-4a03-8749-2a16578bb7e1,2-2000,Bank Loan,liability,non_current_liability,,False,True,Non-Taxable
+3f61a4ab-1541-4446-acb2-c3587fd48206,29946c71-6cdc-4a03-8749-2a16578bb7e1,3-1000,Owner's Equity / Common Stock,equity,equity,,True,True,Non-Taxable
+cd2ba979-f906-45b9-a70a-2d0f9d7d54f0,29946c71-6cdc-4a03-8749-2a16578bb7e1,3-2000,Retained Earnings,equity,equity,,True,True,Non-Taxable
+436f846d-a12f-407c-8620-47eae2aae5d6,29946c71-6cdc-4a03-8749-2a16578bb7e1,3-3000,Current Year Earnings,equity,equity,,True,True,Non-Taxable
+03d51551-2acb-40c6-ba46-c75a0daa868a,29946c71-6cdc-4a03-8749-2a16578bb7e1,3-4000,Owner's Draws,equity,equity,,False,True,Non-Taxable
+9fe33c2f-0114-4c5f-a852-03b67c563ed6,29946c71-6cdc-4a03-8749-2a16578bb7e1,4-1000,Sales Revenue,revenue,operating_revenue,,True,True,Taxable
+91428ad4-63a5-4869-a64d-a429aadd2b45,29946c71-6cdc-4a03-8749-2a16578bb7e1,4-1100,Sales Returns & Allowances,revenue,operating_revenue,,False,True,Taxable
+49a34958-dfef-44f8-935f-5f753a1d892c,29946c71-6cdc-4a03-8749-2a16578bb7e1,4-1200,Sales Discounts,revenue,operating_revenue,,False,True,Taxable
+7471d977-d212-46f2-9ff7-5c45cb97871c,29946c71-6cdc-4a03-8749-2a16578bb7e1,4-2000,Interest Income,revenue,other_revenue,,False,True,Non-Taxable
+7d6de104-9c03-4def-a747-a98441ee6702,29946c71-6cdc-4a03-8749-2a16578bb7e1,4-3000,Other Income,revenue,other_revenue,,False,True,Taxable
+f1d74055-32e8-4673-b0b3-ef4407623d8a,29946c71-6cdc-4a03-8749-2a16578bb7e1,5-1000,Cost of Goods Sold,expense,cogs,,True,True,Taxable
+06d219c6-bdea-442d-9a21-b8620d2d7d83,29946c71-6cdc-4a03-8749-2a16578bb7e1,5-1100,Shipping & Delivery,expense,cogs,,False,True,Taxable
+cd89d647-8b14-4c7d-8029-f926db584f75,29946c71-6cdc-4a03-8749-2a16578bb7e1,5-1200,Purchase Returns & Allowances,expense,cogs,,False,True,Taxable
+421531c3-ac82-45e2-b3fa-38c4ec6b25da,29946c71-6cdc-4a03-8749-2a16578bb7e1,5-1300,Inventory Write-offs,expense,cogs,,False,True,Non-Taxable
+8f64af51-c938-4db6-a2ea-1a2f69675d27,29946c71-6cdc-4a03-8749-2a16578bb7e1,6-1000,Salaries & Wages,expense,operating_expense,,True,True,Non-Taxable
+525d95d8-40c8-4b37-8d77-6b7f2262fcb0,29946c71-6cdc-4a03-8749-2a16578bb7e1,6-1100,Employer FICA Expense,expense,operating_expense,,True,True,Non-Taxable
+5832835d-0691-4808-8409-98d81012c205,29946c71-6cdc-4a03-8749-2a16578bb7e1,6-1150,FUTA Expense,expense,operating_expense,,False,True,Non-Taxable
+2cf06114-ba34-454d-a9b7-35ae202a4dff,29946c71-6cdc-4a03-8749-2a16578bb7e1,6-1200,Workers Compensation Insurance,expense,operating_expense,,False,True,Non-Taxable
+bfc09651-dee0-491b-abb7-1e1cd1e870e2,29946c71-6cdc-4a03-8749-2a16578bb7e1,6-1250,401(k) Employer Match,expense,operating_expense,,False,True,Non-Taxable
+8656f383-7dec-48cb-9f0f-6e148045a508,29946c71-6cdc-4a03-8749-2a16578bb7e1,6-1300,Employee Benefits,expense,operating_expense,,False,True,Non-Taxable
+3240273d-24f2-47b9-b5f8-1f912303b3b4,29946c71-6cdc-4a03-8749-2a16578bb7e1,6-2000,Rent Expense,expense,operating_expense,,False,True,Non-Taxable
+f6ebd594-a1a3-4911-8495-69b8cf539391,29946c71-6cdc-4a03-8749-2a16578bb7e1,6-2100,Utilities,expense,operating_expense,,False,True,Taxable
+62319885-e375-4148-a9a9-7ff960fd62de,29946c71-6cdc-4a03-8749-2a16578bb7e1,6-2200,Insurance,expense,operating_expense,,False,True,Non-Taxable
+cf60b3b1-b646-49c1-a8d2-92163a4390d0,29946c71-6cdc-4a03-8749-2a16578bb7e1,6-2300,Telephone & Internet,expense,operating_expense,,False,True,Taxable
+e40b5e3b-770a-46c3-9af4-261698180c91,29946c71-6cdc-4a03-8749-2a16578bb7e1,6-2400,Office Supplies,expense,operating_expense,,False,True,Taxable
+cfe2b4f7-cc3c-485b-ba43-d93c613525cf,29946c71-6cdc-4a03-8749-2a16578bb7e1,6-2500,Advertising & Marketing,expense,operating_expense,,False,True,Taxable
+d4679760-75ee-46a0-b11a-ad9ba3c11ca4,29946c71-6cdc-4a03-8749-2a16578bb7e1,6-2600,Professional Fees,expense,operating_expense,,False,True,Non-Taxable
+bdee9f67-22fa-4a34-9690-f4db41fc7760,29946c71-6cdc-4a03-8749-2a16578bb7e1,6-2700,Bank Fees & Charges,expense,operating_expense,,False,True,Non-Taxable
+71586608-f8b3-422d-bbf0-89062274072b,29946c71-6cdc-4a03-8749-2a16578bb7e1,6-2800,Depreciation Expense,expense,operating_expense,,True,True,Non-Taxable
+467be28c-e521-4a7a-b611-b624d07145a4,29946c71-6cdc-4a03-8749-2a16578bb7e1,6-2900,Vehicle Expenses,expense,operating_expense,,False,True,Taxable
+9293ccd3-33cc-4ee1-a1a3-92ee1702ed0d,29946c71-6cdc-4a03-8749-2a16578bb7e1,6-3000,Repairs & Maintenance,expense,operating_expense,,False,True,Taxable
+14b63c32-d75f-4a1c-80fa-6078682a0082,29946c71-6cdc-4a03-8749-2a16578bb7e1,6-3100,Printing & Office Expense,expense,operating_expense,,False,True,Taxable
+d57a6cb2-943c-44fe-8546-029862e2c8ae,29946c71-6cdc-4a03-8749-2a16578bb7e1,6-3200,Subscriptions & Dues,expense,operating_expense,,False,True,Taxable
+eb59df3b-e9fd-4414-becb-dfff471caae5,29946c71-6cdc-4a03-8749-2a16578bb7e1,6-3300,Travel & Entertainment,expense,operating_expense,,False,True,Taxable
+c0644211-3ba4-4fec-9570-73db922c9ab7,29946c71-6cdc-4a03-8749-2a16578bb7e1,6-3400,Bad Debt Expense,expense,operating_expense,,False,True,Non-Taxable
+d5b19b8d-5e80-425d-8491-fcb994389faf,29946c71-6cdc-4a03-8749-2a16578bb7e1,6-9000,Miscellaneous Expense,expense,operating_expense,,False,True,Taxable
